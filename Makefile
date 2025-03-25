@@ -1,5 +1,9 @@
 # makefile
 # project telepantin
+# prerequisites : cairo / gtk4
+#  for osx : 
+#  	- brew install cairo
+# 	- brew install gtk+4
 
 
 # The wildcard function is part of Make syntax. 
